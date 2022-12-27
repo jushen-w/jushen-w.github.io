@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/categories/ai/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/database/</loc>
+  </url>
+  
+  <url>
     <loc>http://example.org/posts/cs-notes/database/database-management-systems/</loc>
-    <lastmod>2022-12-26T21:24:23-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/first_post/</loc>
-    <lastmod>2022-12-26T21:24:23-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2022-12-26T21:24:23-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2022-12-26T21:24:23-06:00</lastmod>
+    <loc>http://example.org/tags/dbms/</loc>
   </url>
   
   <url>
@@ -27,7 +27,19 @@
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://example.org/tags/markov/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/reinforcement-learning/</loc>
   </url>
   
   <url>

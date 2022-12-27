@@ -1,49 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>http://example.org/categories/ai/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/database/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/cs-notes/database/database-management-systems/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/dbms/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/cs-notes/ai/intro-to-ai/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/markov/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/reinforcement-learning/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
-  </url>
-  
-</urlset>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>https://jushen-w.github.io/categories/ai/</loc></url><url>
+            <loc>https://jushen-w.github.io/categories/</loc></url><url>
+            <loc>https://jushen-w.github.io/categories/database/</loc></url><url>
+            <loc>https://jushen-w.github.io/posts/cs-notes/database/database-management-systems/</loc></url><url>
+            <loc>https://jushen-w.github.io/tags/dbms/</loc></url><url>
+            <loc>https://jushen-w.github.io/posts/cs-notes/ai/intro-to-ai/</loc></url><url>
+            <loc>https://jushen-w.github.io/tags/markov/</loc></url><url>
+            <loc>https://jushen-w.github.io/</loc></url><url>
+            <loc>https://jushen-w.github.io/posts/</loc></url><url>
+            <loc>https://jushen-w.github.io/tags/reinforcement-learning/</loc></url><url>
+            <loc>https://jushen-w.github.io/tags/</loc></url></urlset>
